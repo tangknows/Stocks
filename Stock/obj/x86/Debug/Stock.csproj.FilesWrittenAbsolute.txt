@@ -1,0 +1,5 @@
+/Users/thanhngo/Projects/Stock/Stock/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/thanhngo/Projects/Stock/Stock/bin/Debug/Stock.exe.mdb
+/Users/thanhngo/Projects/Stock/Stock/bin/Debug/Stock.exe
+/Users/thanhngo/Projects/Stock/Stock/obj/x86/Debug/Stock.exe
+/Users/thanhngo/Projects/Stock/Stock/obj/x86/Debug/Stock.exe.mdb
